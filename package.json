@@ -42,10 +42,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xznsenpai/xznbot.git"
+    "url": "git+https://github.com/Ainindar/SelfBotXzn.git"
   },
   "bugs": {
-    "url": "https://github.com/xznsenpai/xznbot/issues"
+    "url": "https://github.com/Ainindar/SelfBotXzn.git"
   },
-  "homepage": "https://github.com/xznsenpai/xznbot#readme"
+  "homepage": "https://github.com/Ainindar/SelfBotXzn.git"
 }
