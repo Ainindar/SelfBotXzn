@@ -65,7 +65,7 @@ autovn = false
 autotype = false
 autoonline = false
 /******** OWNER NUMBER**********/ 
-const ownerNumber = ["6282256080304@s.whatsapp.net"] 
+const ownerNumber = ["6285880004057@s.whatsapp.net"] 
 /*********** LOAD FILE ***********/
 const welkom = JSON.parse(fs.readFileSync('./database/bot/welkom.json'))
 const antilink = JSON.parse(fs.readFileSync('./database/group/antilink.json'))
